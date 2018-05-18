@@ -1,0 +1,8 @@
+{
+  "name": "ipfs-api-wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/imgCube/ipfs-api-wrapper",
+  "author": "Nufflee",
+  "license": "MIT"
+}
