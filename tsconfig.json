@@ -1,0 +1,27 @@
+{
+  "exclude": [
+    "node_modules",
+    "build",
+    "scripts",
+    "acceptance-tests",
+    "webpack",
+    "jest",
+    "src/setupTests.ts"
+  ],
+  "compilerOptions": {
+    "baseUrl": "./",
+    "allowJs": false,
+    "checkJs": false,
+    "sourceMap": false,
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "target": "es2015",
+    "outDir": "build/",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+  }
+}
